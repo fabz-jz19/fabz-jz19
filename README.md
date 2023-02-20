@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fabz-jz19
+- 👋 Hi, I’m Noellette Jeremie Fabien
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android
 - 📫 Reach me here -> www.linkedin.com/in/fabiennoellette89a998174
